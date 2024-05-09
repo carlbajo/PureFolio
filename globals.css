@@ -1,0 +1,11 @@
+.custom-container{
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.quote {
+    border-left-color: #333;
+    border-left-width: 3px;
+    font-style: italic;
+  }
